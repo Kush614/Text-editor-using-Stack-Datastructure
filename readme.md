@@ -1,13 +1,19 @@
 
-https://user-images.githubusercontent.com/56497318/127524563-8c7b6ead-0211-4c95-835c-1ca082f59834.mp4
+
+https://user-images.githubusercontent.com/67098940/159105792-bf1ce1c2-8d16-4b85-ab4c-b2a94e708b54.mp4
+
+
 
 
 ## Text Editor
 ## Description
 Write, Delete and Undo text operations.
 
-## Skills nurtured:
+## Skills developed:
 Used Stack for undo functionality.
 
 ## Tech. Stack:
 HTML, CSS, JS
+
+
+
